@@ -1,0 +1,2 @@
+testing Salome MED library
+
